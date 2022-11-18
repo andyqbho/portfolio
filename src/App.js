@@ -9,6 +9,7 @@ function App() {
         <p>
           Test <code>src/App.js</code> and save to reload.
           I added this test line.
+          And this one
         </p>
         <a
           className="App-link"
