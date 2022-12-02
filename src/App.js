@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test <code>src/App.js</code> and save to reload.
+          Test <code>src/App.js</code> and save to reload.<br></br>
           I added this test line.
           And this one
         </p>
