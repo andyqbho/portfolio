@@ -1,14 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from "./Components/Navbar"
+import "./styles.css"
 
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Test <code>src/App.js</code> and save to reload.<br></br>
-          I added this test line.
+          I added this test line.<br></br>
           And this one
         </p>
         <a
